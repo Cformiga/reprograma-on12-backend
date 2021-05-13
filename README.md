@@ -31,3 +31,4 @@ pega a nota A,soma com a nota B, esse resultado divide-se por 2 e esse resultado
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
 deve- se pegar o salario atual do funcionario, verificar se o valor recebido encontra-se na cota de 20% ou 10%,com esse valor dividir por 100, o resultado deve ser multiplicado por 10 ou 20 conforme a cota que se encontra, esse valor deve ser somado ao valor do salario gerando o valor real do novo aumento.
+ 
