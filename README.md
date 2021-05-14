@@ -19,3 +19,6 @@ pegar as provas colocando todas em uma pilha, pegar a primeira e verificar as qu
 
 6 Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 todos começam em pé, um é selecionado para direcionar a brincadeira dizendo os comandos, os outros ficam em pe de frente para o selecionado, ele fala morto ou vivo sendo morto agachado e vivo em pé, quem fizer o comando contrario sai da brincadeira, faz rodadas até que só sobre um na brincadeira que será o vencedor e o proximo a ser o comandante da brincadeira.
+
+7. Faça um algoritmo que some três números.
+1+2+3=6
