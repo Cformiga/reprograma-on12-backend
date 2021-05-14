@@ -11,3 +11,5 @@ pegar a buche e detergente, molhar o prato, passar detergente na bucha, lavar o 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 abrir o porta malas, retirar macaco, chave e pneu estepe, colocar o macaco pra levantar o carro, retirar o pneu furado com a chave de roda, colocar o novo pneu, apertar os parafusos, descer o carro do macaco, retirar o macaco, colocar pneu furado, chave e macaco no porta malas e fechar.
 
+4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+pegar o cartao do banco, inserir no caixa, colocar senha,seguir os passos enviado pela tela de comando, apos operaçao feita, retirar o cartao, retirar o dinheiro no local mostrado, finalizar no botao de sair.
