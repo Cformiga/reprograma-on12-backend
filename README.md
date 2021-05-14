@@ -25,3 +25,7 @@ todos começam em pé, um é selecionado para direcionar a brincadeira dizendo o
 
 8Faça um algoritmo que descubra se um número é par ou ímpar.
 primeiro pega um numero qualquer e divide por 2, caso a divisão não tenha sobra, esse numero e par, caso sobre 1 esse numero é impar.
+
+9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+pega a nota A,soma com a nota B, esse resultado divide-se por 2 e esse resultado para aprovaçao deve ser maior que x, e para reprovaçao deve ser menor que x.
+
