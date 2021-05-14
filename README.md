@@ -13,3 +13,6 @@ abrir o porta malas, retirar macaco, chave e pneu estepe, colocar o macaco pra l
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 pegar o cartao do banco, inserir no caixa, colocar senha,seguir os passos enviado pela tela de comando, apos operaçao feita, retirar o cartao, retirar o dinheiro no local mostrado, finalizar no botao de sair.
+
+5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+pegar as provas colocando todas em uma pilha, pegar a primeira e verificar as questoes de acordo com o gabarito, corrigir as questoes e colocar a nota atingida, separar a prova em outra pilha e voltar ao primeiro passo com as outras provas ate acabar todas.
