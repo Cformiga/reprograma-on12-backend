@@ -22,3 +22,6 @@ todos começam em pé, um é selecionado para direcionar a brincadeira dizendo o
 
 7. Faça um algoritmo que some três números.
 1+2+3=6
+
+8Faça um algoritmo que descubra se um número é par ou ímpar.
+primeiro pega um numero qualquer e divide por 2, caso a divisão não tenha sobra, esse numero e par, caso sobre 1 esse numero é impar.
