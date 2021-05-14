@@ -16,3 +16,6 @@ pegar o cartao do banco, inserir no caixa, colocar senha,seguir os passos enviad
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 pegar as provas colocando todas em uma pilha, pegar a primeira e verificar as questoes de acordo com o gabarito, corrigir as questoes e colocar a nota atingida, separar a prova em outra pilha e voltar ao primeiro passo com as outras provas ate acabar todas.
+
+6 Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+todos começam em pé, um é selecionado para direcionar a brincadeira dizendo os comandos, os outros ficam em pe de frente para o selecionado, ele fala morto ou vivo sendo morto agachado e vivo em pé, quem fizer o comando contrario sai da brincadeira, faz rodadas até que só sobre um na brincadeira que será o vencedor e o proximo a ser o comandante da brincadeira.
